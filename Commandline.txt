@@ -8,4 +8,6 @@ $ git config --global user.name 'deny01'
 
 $ git init
 
+$ git add Commandline.txt
 
+$ git commit -m "Git»ù±¾²Ù×÷ÃüÁî" Commandline.txt
