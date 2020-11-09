@@ -11,3 +11,19 @@ $ git init
 $ git add Commandline.txt
 
 $ git commit -m "Git基本操作命令" Commandline.txt
+
+$ git status
+
+$ git log
+$ git reflog
+
+$ git reset --hard 索引号 （git reflog 得到的）
+$ git reset --mixed 索引号 （git reflog 得到的 本地区不动）
+$ git reset --soft 索引号 （git reflog 得到的 本地区不动,暂存区不动，本地库懂）
+
+$ git rm 删除文件
+
+$ git diff 本地库和暂存区
+
+
+
