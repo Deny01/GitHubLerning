@@ -27,6 +27,7 @@ $ git diff 本地库和暂存区
 $ git branch -v
 $ git branch branch01 创建分区
 $ git branch -d checkout 删除分区
+$ git merge branch01 合并分区
 
 
 
