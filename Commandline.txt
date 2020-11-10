@@ -30,6 +30,14 @@ $ git checkout branch01 分支切换
 $ git branch -d checkout 删除分区
 $ git merge branch01 合并分区
 
+git remote -v
+git remote add GitHubLearning https://github.com/Deny01/GitHubLerning.git
+
+ http://localhost:50722
+git push GitHubLearning branch01
+
+管理凭据 删除
+
 
 
 
