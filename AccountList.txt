@@ -1,7 +1,7 @@
-﻿1. Google
+﻿1. Google                                 1.1 Docker
 
-    Deny CM
-    cmdeny21@gmail.com
+    Deny CM                                    jory999  
+    cmdeny21@gmail.com                         cmdeny21@gmail.com
 --------------------------------------------------------------------
 
 2. Microsoft
