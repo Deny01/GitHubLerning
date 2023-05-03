@@ -56,6 +56,22 @@ Account：cmdeny21@gmail.com
 
 --------------------------------
 
+	1. https://sms-activate.org/     6737901@qq.com    .pN3CJR!nHx!fmh
+	Your ID: 6934387              6737901@qq.com
+	
+	
+	2. Organization name:Jory
+        Organization ID:org-yRWzGqwbU8O4duQZ2MymRs2F
+        https://platform.openai.com/account/org-settings
+
+	3. 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
+	*** 
+	Create new secret key
+	Please save this secret key somewhere safe and accessible. For security reasons, you won't be able to view it again through your OpenAI account. If you lose this secret key, you'll need to generate a new one.
+
+
+-------------------------------------------
+
 YC 
 
 qq:    3524314747 yjyhc6602+
