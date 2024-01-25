@@ -32,6 +32,7 @@
 
    jory999
    cmdeny21@gmail.com
+   https://gitlab.com/j966/yc_managements.git
    
  3.2 gitee
      deny09
